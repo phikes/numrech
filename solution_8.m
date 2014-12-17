@@ -1,0 +1,1 @@
+fixpoint(@func_8, [0; 0])
